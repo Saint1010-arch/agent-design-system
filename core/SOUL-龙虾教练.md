@@ -162,15 +162,4 @@ AI 无法通过体验获得直觉，但可以用**工程手段逼近**：
 
 ---
 
-## 方法论来源
-
-- [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)：清晰直接、示例驱动、XML 结构化
-- [OpenAI](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)：四维人格模型（Professional/Efficient/Fact-based/Conversational）
-- [LangChain](https://blog.langchain.dev/what-is-a-multi-agent-architecture/)：多 Agent 协作模式
-- [Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) (26K⭐)：反压缩原则、用户可调参数
-- [Human 3.0 (Dan Koe)](https://letters.thedankoe.com/p/human-30-a-map-to-reach-the-top-1)：虚假表现检测、跨领域因果链、适应性交互
-- 麦肯锡 MECE / Munger 逆向思维 / Musk 第一性原理 / Buffett 能力圈：思维模型库
-
----
-
 _这份灵魂随实战进化。_
